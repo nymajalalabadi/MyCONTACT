@@ -1,0 +1,16 @@
+E:\proj c#\MyCONTACT\MyCONTACT\obj\Debug\MyCONTACT.Contact.resources
+E:\proj c#\MyCONTACT\MyCONTACT\obj\Debug\MyCONTACT.Properties.Resources.resources
+E:\proj c#\MyCONTACT\MyCONTACT\obj\Debug\MyCONTACT.csproj.GenerateResource.cache
+E:\proj c#\MyCONTACT\MyCONTACT\obj\Debug\MyCONTACT.csproj.CoreCompileInputs.cache
+E:\proj c#\MyCONTACT\MyCONTACT\bin\Debug\MyCONTACT.exe.config
+E:\proj c#\MyCONTACT\MyCONTACT\bin\Debug\MyCONTACT.exe
+E:\proj c#\MyCONTACT\MyCONTACT\bin\Debug\MyCONTACT.pdb
+E:\proj c#\MyCONTACT\MyCONTACT\obj\Debug\MyCONTACT.exe
+E:\proj c#\MyCONTACT\MyCONTACT\obj\Debug\MyCONTACT.pdb
+E:\proj c#\MyCONTACT\MyCONTACT\obj\Debug\MyCONTACT.frmAddOrEdit.resources
+E:\proj c#\MyCONTACT\MyCONTACT\bin\Debug\EntityFramework.dll
+E:\proj c#\MyCONTACT\MyCONTACT\bin\Debug\EntityFramework.SqlServer.dll
+E:\proj c#\MyCONTACT\MyCONTACT\bin\Debug\EntityFramework.xml
+E:\proj c#\MyCONTACT\MyCONTACT\bin\Debug\EntityFramework.SqlServer.xml
+E:\proj c#\MyCONTACT\MyCONTACT\obj\Debug\MyCONTACT.csproj.CopyComplete
+E:\proj c#\MyCONTACT\MyCONTACT\obj\Debug\MyCONTACT.csproj.AssemblyReference.cache
